@@ -14,7 +14,7 @@ humantime: "09:00 to 17:00 (UTC + 1)"
 startdate: 2026-04-09
 enddate: 2026-04-09
 instructor: ["Carol Booth"]
-helper: ["Dr John Schoneboom","Dr Carmelo Calafiore","Dr  Jannetta Steyn"]
+helper: ["Dr John Schoneboom","Dr Carmelo Calafiore"]
 email: ["training.researchcomputing@newcastle.ac.uk"]
 collaborative_notes: https://hackmd.io/@RSETeam/2026-04-09-NCL/edit
 eventbrite: 
